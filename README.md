@@ -1,6 +1,6 @@
 # ReversedDataConverter
 Reversed Data Converter - just program to calculate and convert hex, int numbers, flags, bytes, patterns and etc.
-Download Exe File - https://github.com/N1ceL/ReversedDataConverter/releases/tag/1.000
+Download - https://github.com/N1ceL/ReversedDataConverter/releases/
 
 [int/hex - calculator/converter]
 + Calculator can work with int (x10) and hex (x16) values [but all values must be in the same system].
@@ -14,8 +14,8 @@ Download Exe File - https://github.com/N1ceL/ReversedDataConverter/releases/tag/
 [bit - calculator/converter]
 + Converter can convert an absolute number to flags and flags to absolute number.
 + Converter can work with int and hex values.
-+ Converter supports '<<', '~', '|', '(', ')'. Also it can work with 2 style of flags [(1 << **) and 0x**].
-+ Style of bits settings: allows to configure style of bits [(1 << **) or 0x**].
++ Converter supports '<<', '~', '|', '(', ')'. Also it can work with 2 style of flags [(1 << .) and 0x.].
++ Style of bits settings: allows to configure style of bits [(1 << .) or 0x.].
 + Converter automatically detects the number of bytes in flags or value [4 or 8].
 + Deletes bad characters.
 + Also this converter still has the calculator system.
@@ -47,7 +47,7 @@ Download Exe File - https://github.com/N1ceL/ReversedDataConverter/releases/tag/
 [settings]
 + Settings, hex style: allows to configure uppercase/lowercase.
 + Int/hex calculator/converter bits: allows to configure number of bytes [4 or 8].
-+ Bit calculator/convertor bits style: allows to configure style of bits [(1 << **) or 0x**].
++ Bit calculator/convertor bits style: allows to configure style of bits [(1 << .) or 0x.].
 + Settings is stored in the appdata. 
 
 
