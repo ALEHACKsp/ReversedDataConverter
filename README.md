@@ -1,6 +1,6 @@
 # ReversedDataConverter
 Reversed Data Converter - just program to calculate and convert hex, int numbers, flags, bytes, patterns and etc.
-Download - https://github.com/N1ceL/ReversedDataConverter/releases/
+Download - https://www.unknowncheats.me/forum/general-programming-and-reversing/444235-reversed-data-converter.html
 
 [int/hex - calculator/converter]
 + Calculator can work with int (x10) and hex (x16) values [but all values must be in the same system].
