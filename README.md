@@ -1,4 +1,4 @@
-# ReversedDataConverter
+```# ReversedDataConverter
 Reversed Data Converter - just program to calculate and convert hex, int numbers, flags, bytes, patterns and etc.
 Download Exe File - https://github.com/N1ceL/ReversedDataConverter/releases/tag/1.000
 
@@ -47,7 +47,7 @@ Download Exe File - https://github.com/N1ceL/ReversedDataConverter/releases/tag/
 [settings]
 + Settings, hex style: allows to configure uppercase/lowercase.
 + Int/hex calculator/converter bits: allows to configure number of bytes [4 or 8].
-+ Bit calculator/convertor bits style: allows to configure style of bits [(1 << ****) or 0x****].
++ Bit calculator/convertor bits style: allows to configure style of bits [(1 << **) or 0x**].
 + Settings is stored in the appdata. 
-
+```
 
